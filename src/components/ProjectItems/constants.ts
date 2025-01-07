@@ -207,7 +207,7 @@ export const Projects: IprojectItem[] = [
 			// },
 		],
 		image: medarus,
-		link: "https://medarus.fr/",
+		link: "https://medarus-one.vercel.app/",
 		linkRepo: "",
 		itemImages: [
 			{
@@ -255,7 +255,7 @@ export const Projects: IprojectItem[] = [
 			},
 		],
 		image: labs,
-		link: "https://labs.microclub.tech/",
+		link: "https://mc-labs-hamziss.vercel.app/",
 		linkRepo: "",
 		bg: bgdrawilio,
 		itemImages: [
