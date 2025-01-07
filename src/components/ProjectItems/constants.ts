@@ -292,7 +292,7 @@ export const Projects: IprojectItem[] = [
 			},
 		],
 		image: bmks,
-		link: "https://bmks.tech/",
+		link: "https://bmks.vercel.app/",
 		linkRepo: "",
 		bg: bgtimer,
 		itemImages: [
